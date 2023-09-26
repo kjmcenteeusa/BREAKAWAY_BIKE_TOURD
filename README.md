@@ -1,2 +1,2 @@
-# BREAKAWAY_BIKE_TOURD
+# BREAKAWAY_BIKE_TOURS
 Class project - Breakaway Bicycle Tours
